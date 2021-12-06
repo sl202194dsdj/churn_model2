@@ -21,10 +21,10 @@ mlflow_config:
   remote_server_uri: http://localhost:1234
 
 random_forest:
-  max_depth: 10
-  n_estimators: 30
-  #max_depth: 5
-  #n_estimators: 15
+  #max_depth: 10
+  #n_estimators: 30
+  max_depth: 5
+  n_estimators: 15
   #max_depth: 20
   #n_estimators: 60
   #max_depth: 3
